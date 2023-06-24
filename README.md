@@ -4,18 +4,20 @@
 - 👨‍💻 Work: FullStack Developer - CanutoDev
 - 👨🏻‍🎓 Studying: Java, Python and Ladder
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Silva&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-H-Silva&layout=compact&show_icons=true&theme=transparent" />
-</a>
-<br/><br/>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Silva&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-H-Silva&layout=compact&show_icons=true&theme=transparent" />
+  </a>
+</div>
 
+<div>
 Hello, my name is Gabriel Henrique! I am a Software Developer with 3 years of programming experience. My main area of expertise is in C# (Net Framework, .Net Core, and Xamarin). I have solid knowledge in Object-Oriented Programming, APIs, and SQL.
 
 <b> This account is my personal account. I use a different account for my work. <b/>
-
+</div>
 <div style="display: inline_block"><br>
   
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
