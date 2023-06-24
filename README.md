@@ -4,14 +4,12 @@
 - 👨‍💻 Work: FullStack Developer - CanutoDev
 - 👨🏻‍🎓 Studying: Java, Python and Ladder
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Silva&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-H-Silva&layout=compact&show_icons=true&theme=transparent" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div>
 Hello, my name is Gabriel Henrique! I am a Software Developer with 3 years of programming experience. My main area of expertise is in C# (Net Framework, .Net Core, and Xamarin). I have solid knowledge in Object-Oriented Programming, APIs, and SQL.
