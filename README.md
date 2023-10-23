@@ -1,9 +1,5 @@
 # Hello! My name is Gabriel Henrique.
 
-### New profile
-- 👨‍💻 Work: FullStack Developer - CanutoDev
-- 👨🏻‍🎓 Studying: Java, Python and Ladder
-
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Silva&theme=transparent" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-H-Silva&layout=compact&langs_count=8&card_width=280&theme=transparent" />
