@@ -1,16 +1,19 @@
 # Hello! My name is Gabriel Henrique.
 
+<div style="display: flex; justify-content: center;">
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Silva&theme=transparent" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-H-Silva&layout=compact&langs_count=8&card_width=280&theme=transparent" />
 
-<br/>
+</div>
 
-Hello, my name is Gabriel Henrique! I am a Software Developer with 3 years of programming experience. My main area of expertise is in C# (Net Framework, .Net Core, and Xamarin). I have solid knowledge in Object-Oriented Programming, APIs, and SQL.
+<br>
+<p> Hello, my name is Gabriel Henrique! I am a Software Developer with 3 years of programming experience. My main area of expertise is in C# (Net Framework, .Net Core, and Xamarin). I have solid knowledge in Object-Oriented Programming, APIs, and SQL. </p>
 
 <b> This account is my personal account. I use a different account for my work. <b/>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
